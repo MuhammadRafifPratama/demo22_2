@@ -1,2 +1,3 @@
 file 1 - demo github
-baris baru edit remote file 1
+baris baru edit remote file 1 -> diedit di lokal
+baris baru edit lokal

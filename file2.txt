@@ -1,1 +1,3 @@
 file 2 - demo git dan dithub
+baris baru edit remote file 2 -> di edit di lokal
+baris baru edit lokal
